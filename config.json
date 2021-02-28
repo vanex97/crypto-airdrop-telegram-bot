@@ -1,16 +1,16 @@
 {
-    "token" : "1314806671:AAFVIOqCTpEe7ibjgWWACFLhn5l-nqqrEhA",
-    "botname" :"RadixAirdropBot",
-    "admins" : ["Varvana"],
-    "token_name" : "eXRD",
+    "token" : "tokenName",
+    "botname" :"Name",
+    "admins" : ["UserName"],
+    "token_name" : "TokenName",
     "signup" : 2500,
     "ref" : 250,
-	"telegram_kanal" : "https://t.me/radix_dlt",
-	"telegram_chat" : "https://t.me/RadixDLTbounty",
-	"twitter" : "https://twitter.com/RadixDLT",
-	"twitter_post" : "https://twitter.com/radixdlt/status/1311702996632260608",
-	"intro" : "Welcome to Dashboard Airdrop Bot\n\nDecentralised Finance is a world changing innovation In the last 90 days it has seen a growth rate of over 1,200% and is on track to bring in another $60Bn over the next two years We truly believe it will change the world However, its future is in jeopardy Ethereum is congested and has become a whales only playground due to soaring transaction fees\n",
-	"website" : "https://radixdlt.com",
-	"about" : "Welcome to Dashboard Airdrop Bot\n\nDecentralised Finance is a world changing innovation In the last 90 days it has seen a growth rate of over 1,200% and is on track to bring in another $60Bn over the next two years We truly believe it will change the world However, its future is in jeopardy Ethereum is congested and has become a whales only playground due to soaring transaction fees\n",
-	"withdraw_data" : "November 12th"
+	"telegram_kanal" : "tgch",
+	"telegram_chat" : "tg",
+	"twitter" : "tw",
+	"twitter_post" : "twp",
+	"intro" : "text\n",
+	"website" : "site",
+	"about" : "about\n",
+	"withdraw_date" : "date"
 }
